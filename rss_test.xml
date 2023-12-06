@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>Your RSS Feed Title</title>
+  <link>Your Website Link</link>
+  <description>Your RSS Feed Description</description>
+  <item>
+    <title>News Item 1</title>
+    <link>https://view.com.au/news/national/why-australian-home-prices-continue-to-rise-despite-rate-increases/</link>
+    <description>Description for News Item 1</description>
+  </item>
+  <item>
+    <title>News Item 2</title>
+    <link>https://view.com.au/news/national/sneak-peek-inside-the-beach-house-tipped-to-break-the-byron-bay-record/</link>
+    <description>Description for News Item 2</description>
+  </item>
+  <item>
+    <title>News Item 3</title>
+    <link>https://view.com.au/news/national/australian-home-prices-hit-new-record-high/</link>
+    <description>Description for News Item 3</description>
+  </item>
+</channel>
+</rss>
