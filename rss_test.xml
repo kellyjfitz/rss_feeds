@@ -1,23 +1,63 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
 <channel>
-  <title>Your RSS Feed Title</title>
+  <title>view.com.au</title>
   <link>Your Website Link</link>
-  <description>Your RSS Feed Description</description>
-  <item>
-    <title>News Item 1</title>
+  <description>National stories from view.com.au</description>
+    <title>A piece of Manly history is on the market</title>
+    <link>https://view.com.au/news/national/a-piece-of-manly-history-is-on-the-market/</link>
+    <description>An iconic slice of Manly's history has hit the market with the birthplace of the renowned Australian swimwear brand, Budgy Smuggler, offered for sale. The impressive 4 bedroom 207sqm penthouse apartment, featuring a large entertaining deck with views towa</description>
+    <image>https://view.com.au/viewstatic/images/illuminate/1024-max/8448048-b-0-a26db9115f03f2.jpeg</image>
+    <pub_date>2023-12-06 03:56:00</pub_date>
+    <title>Why Australian home prices continue to rise despite rate increases</title>
     <link>https://view.com.au/news/national/why-australian-home-prices-continue-to-rise-despite-rate-increases/</link>
-    <description>Description for News Item 1</description>
-  </item>
-  <item>
-    <title>News Item 2</title>
+    <description>Despite 13 interest rate rises since May property prices are still on the up.</description>
+    <image>https://view.com.au/viewstatic/images/illuminate/1024-max/8447950-b-0-6e3ef3daf3917a.jpeg</image>
+    <pub_date>2023-12-05 04:30:00</pub_date>
+    <title>Sneak peek: Inside the beach house tipped to break the Byron Bay record</title>
     <link>https://view.com.au/news/national/sneak-peek-inside-the-beach-house-tipped-to-break-the-byron-bay-record/</link>
-    <description>Description for News Item 2</description>
-  </item>
-  <item>
-    <title>News Item 3</title>
+    <description>The median house price in Byron Bay has risen by 41.5 per cent in the past five years.</description>
+    <image>https://cdn.realestateview.com.au/illuminate/images/1024-max/8442737-b-0-345e35ecc350c9.jpeg</image>
+    <pub_date>2023-11-30 06:06:00</pub_date>
+    <title>The three reasons why housing is now even more unaffordable</title>
+    <link>https://view.com.au/news/national/the-three-reasons-why-housing-is-now-even-more-unaffordable/</link>
+    <description>'People looking to purchase their first home are facing extreme challenges.'</description>
+    <image>https://cdn.realestateview.com.au/illuminate/images/1024-max/8444471-b-0-d13a42d7138f9f.jpeg</image>
+    <pub_date>2023-12-01 02:46:26</pub_date>
+    <title>Australian home prices hit new record high</title>
     <link>https://view.com.au/news/national/australian-home-prices-hit-new-record-high/</link>
-    <description>Description for News Item 3</description>
-  </item>
+    <description>See which cities are seeing the strongest growth.</description>
+    <image>https://cdn.realestateview.com.au/illuminate/images/1024-max/8433579-b-0-02417586e9e807.jpeg</image>
+    <pub_date>2023-11-24 02:23:32</pub_date>
+    <title>See inside the Byron Bay house Carrie Bickmore is selling</title>
+    <link>https://view.com.au/news/national/see-inside-the-byron-bay-house-carrie-bickmore-is-selling/</link>
+    <description>It has a guide nearly $2 million more than she paid in 2018.</description>
+    <image>https://cdn.realestateview.com.au/illuminate/images/1024-max/8430055-b-0-f576da9f67cfb8.jpeg</image>
+    <pub_date>2023-11-20 04:16:00</pub_date>
+    <title>Billionaire heiress is selling her $32 million Sydney penthouse</title>
+    <link>https://view.com.au/news/national/billionaire-heiress-is-selling-her-32-million-sydney-penthouse/</link>
+    <description>She bought it for $15.8 million in 2019</description>
+    <image>https://cdn.realestateview.com.au/illuminate/images/1024-max/8427744-b-0-bb200de413f138.jpeg</image>
+    <pub_date>2023-11-17 05:56:05</pub_date>
+    <title>Accused mushroom cook's property snapped up before auction</title>
+    <link>https://view.com.au/news/national/accused-mushroom-cook-s-property-snapped-up-before-auction/</link>
+    <description>The home sold within three weeks.</description>
+    <image>https://cdn.realestateview.com.au/illuminate/images/1024-max/8425789-b-0-3b6f62a71bedba.jpeg</image>
+    <pub_date>2023-11-16 05:00:00</pub_date>
+    <title>Regional renters hit as more of Australia becomes unaffordable</title>
+    <link>https://view.com.au/news/national/regional-renters-hit-as-more-of-australia-becomes-unaffordable/</link>
+    <description>See whether your suburb is affordable.</description>
+    <image>https://cdn.realestateview.com.au/illuminate/images/1024-max/8423171-b-0-9e1ee9a529d200.jpeg</image>
+    <pub_date>2023-11-14 02:43:00</pub_date>
+    <title>View Media Group back AI that transforms the real estate search</title>
+    <link>https://view.com.au/news/national/view-media-group-back-ai-that-transforms-the-real-estate-search/</link>
+    <description>A newly launched AI assistant is set to help house hunters - including those buying and renting - in their search for their perfect home. The virtual concierge, Claire by Propic, is a first port of call in house hunting. The virtual concierge, Claire by P</description>
+    <image>https://cdn.realestateview.com.au/illuminate/images/1024-max/8419353-b-0-34479958e41a28.jpeg</image>
+    <pub_date>2023-11-10 03:23:00</pub_date>
+    <title>Home prices could reach new record high in November: report</title>
+    <link>https://view.com.au/news/national/home-prices-could-reach-new-record-high-in-november-report/</link>
+    <description>Prices have risen by more than 10 per cent in thee cities this year.</description>
+    <image>https://cdn.realestateview.com.au/illuminate/images/1024-max/8410302-b-0-e9a9db6ec50253.jpeg</image>
+    <pub_date>2023-11-02 06:35:00</pub_date>
 </channel>
 </rss>
