@@ -1,2 +1,2 @@
-with open ("hello.text", "w") as f:
+with open ("hello.txt", "w") as f:
     f.write("Hello")
