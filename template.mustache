@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+  <title>view.com.au</title>
+  <link>Your Website Link</link>
+  <description>National stories from view.com.au</description>
+  {{#items}}
+  <item>
+    <title>{{{headline}}}</title>
+    <link>{{url}}</link>
+    <description>{{{description}}}</description>
+    <media:content url="{{image}}" medium="image" type="image/jpg" />
+    <pub_date>{{pub_date}}</pub_date>
+  </item>
+  {{/items}}
+</channel>
+</rss>
