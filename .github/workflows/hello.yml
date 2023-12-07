@@ -2,7 +2,7 @@ name: Hello World
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *' # This will run the job every day at midnight UTC, which is 8 AM in Perth
+    - cron: '30 0 * * *' # This will run the job every day at midnight UTC, which is 8 AM in Perth
 
 jobs:
   build:
